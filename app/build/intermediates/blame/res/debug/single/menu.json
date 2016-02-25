@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_item_delete.xml",
+        "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\src\\main\\res\\menu\\note_list_item_delete.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_note_menu.xml",
+        "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\src\\main\\res\\menu\\fragment_note_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_note_list_menu.xml",
+        "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\src\\main\\res\\menu\\fragment_note_list_menu.xml"
+    }
+]
