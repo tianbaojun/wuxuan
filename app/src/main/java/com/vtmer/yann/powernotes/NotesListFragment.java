@@ -192,7 +192,7 @@ public class NotesListFragment extends ListFragment {
 				FragmentManager fm = getActivity().getSupportFragmentManager();
 				SortDialogFragment dialog = new SortDialogFragment();
 				dialog.setTargetFragment(NotesListFragment.this, REQUEST_SORT);
-				dialog.show(fm, DIALOG_SORT);//显示SortDialogFragmen
+				dialog.show(fm, DIALOG_SORT); //显示SortDialogFragmen
 				return true;
 			default:
 				return super.onOptionsItemSelected(item);
@@ -239,7 +239,7 @@ public class NotesListFragment extends ListFragment {
 			solvedCheckBox.setChecked(n.isSolved());
 			TextView contentTextView = (TextView) convertView.findViewById(R.id.notes_list_content_textView);
 
-			if (n.getContent().length() == 0) {
+			if (n.getContent()==null||n.getContent().length() == 0) {
 				contentTextView.setVisibility(View.GONE);
 				Log.d(TAG, "内容");
 			} else {

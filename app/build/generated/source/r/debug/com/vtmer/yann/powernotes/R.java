@@ -882,11 +882,11 @@ containing a value of this type.
         public static final int imageView1=0x7f0c0049;
         public static final int listMode=0x7f0c0007;
         public static final int list_item=0x7f0c002a;
-        public static final int menu_delete_list_note=0x7f0c0052;
-        public static final int menu_new_item_menu=0x7f0c004d;
-        public static final int menu_save_item_note=0x7f0c0051;
-        public static final int menu_setting_item=0x7f0c0050;
-        public static final int menu_sort_item=0x7f0c004f;
+        public static final int menu_delete_list_note=0x7f0c0053;
+        public static final int menu_new_item_menu=0x7f0c004e;
+        public static final int menu_save_item_note=0x7f0c0052;
+        public static final int menu_setting_item=0x7f0c0051;
+        public static final int menu_sort_item=0x7f0c0050;
         public static final int middle=0x7f0c0012;
         public static final int never=0x7f0c0017;
         public static final int none=0x7f0c0013;
@@ -896,7 +896,7 @@ containing a value of this type.
         public static final int notes_list_date_textView=0x7f0c0045;
         public static final int notes_list_solved_checkBox=0x7f0c0047;
         public static final int notes_list_title_textView=0x7f0c0046;
-        public static final int overflow_menu=0x7f0c004e;
+        public static final int overflow_menu=0x7f0c004f;
         public static final int progress_circular=0x7f0c0004;
         public static final int progress_horizontal=0x7f0c0005;
         public static final int radio=0x7f0c0030;
@@ -924,6 +924,7 @@ containing a value of this type.
         public static final int title=0x7f0c002c;
         public static final int title_note=0x7f0c0042;
         public static final int top_action_bar=0x7f0c0021;
+        public static final int tv_id=0x7f0c004d;
         public static final int up=0x7f0c0022;
         public static final int useLogo=0x7f0c000f;
         public static final int viewPager=0x7f0c0006;
@@ -965,6 +966,7 @@ containing a value of this type.
         public static final int fragment_notes_null=0x7f03001d;
         public static final int splash=0x7f03001e;
         public static final int support_simple_spinner_dropdown_item=0x7f03001f;
+        public static final int test_textview=0x7f030020;
     }
     public static final class menu {
         public static final int fragment_note_list_menu=0x7f0d0000;

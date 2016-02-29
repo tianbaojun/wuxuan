@@ -3,6 +3,8 @@ package com.vtmer.yann.powernotes;
 import android.content.Context;
 import android.util.Log;
 
+import com.vtmer.yann.powernotes.osCalender.MyCalenderEventsLab;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONTokener;
@@ -76,7 +78,11 @@ public class NoteJSONSerializer {
 			throws JSONException, IOException {
 		JSONArray array = new JSONArray();
 		for (Note n : notes) {
-			array.put(n.toJSON());
+			if (n.getAndroid_id() == null) {
+				array.put(n.toJSON());
+			} else {
+				boolean ok = MyCalenderEventsLab.insertOrUpdateEvent(mContext,n);
+			}
 		}
 		
 		Writer writer = null;

@@ -60,6 +60,10 @@
         "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_textview.xml",
+        "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\src\\main\\res\\layout\\test_textview.xml"
+    },
+    {
         "merged": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "E:\\AndroidWorkSpace\\import\\android_power_notes-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },

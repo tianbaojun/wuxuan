@@ -299,11 +299,11 @@ int id image 0x7f0c0028
 int id imageView1 0x7f0c0049
 int id listMode 0x7f0c0007
 int id list_item 0x7f0c002a
-int id menu_delete_list_note 0x7f0c0052
-int id menu_new_item_menu 0x7f0c004d
-int id menu_save_item_note 0x7f0c0051
-int id menu_setting_item 0x7f0c0050
-int id menu_sort_item 0x7f0c004f
+int id menu_delete_list_note 0x7f0c0053
+int id menu_new_item_menu 0x7f0c004e
+int id menu_save_item_note 0x7f0c0052
+int id menu_setting_item 0x7f0c0051
+int id menu_sort_item 0x7f0c0050
 int id middle 0x7f0c0012
 int id never 0x7f0c0017
 int id none 0x7f0c0013
@@ -313,7 +313,7 @@ int id notes_list_content_textView 0x7f0c0048
 int id notes_list_date_textView 0x7f0c0045
 int id notes_list_solved_checkBox 0x7f0c0047
 int id notes_list_title_textView 0x7f0c0046
-int id overflow_menu 0x7f0c004e
+int id overflow_menu 0x7f0c004f
 int id progress_circular 0x7f0c0004
 int id progress_horizontal 0x7f0c0005
 int id radio 0x7f0c0030
@@ -341,6 +341,7 @@ int id textView2 0x7f0c004c
 int id title 0x7f0c002c
 int id title_note 0x7f0c0042
 int id top_action_bar 0x7f0c0021
+int id tv_id 0x7f0c004d
 int id up 0x7f0c0022
 int id useLogo 0x7f0c000f
 int id viewPager 0x7f0c0006
@@ -378,6 +379,7 @@ int layout fragment_notes_list_item 0x7f03001c
 int layout fragment_notes_null 0x7f03001d
 int layout splash 0x7f03001e
 int layout support_simple_spinner_dropdown_item 0x7f03001f
+int layout test_textview 0x7f030020
 int menu fragment_note_list_menu 0x7f0d0000
 int menu fragment_note_menu 0x7f0d0001
 int menu note_list_item_delete 0x7f0d0002
